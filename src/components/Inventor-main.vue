@@ -111,6 +111,7 @@
           {name: "Serv-O", requirement: 250},
           {name: "Stab-O", requirement: 5000},
           {name: "Split-O", requirement: 20000},
+          {name: "Store-O", requirement: 75000}
         ]
       )
     },
